@@ -3,7 +3,7 @@
 # Chess game C
 
 This is an interactive chess program that applies a graphical user interface (GUI) and artificial intelligence (AI) based opponent.
-All the project is written in C. This project consists of two parts: backend and frontend: 
+All the project is written in C. This project consists of two parts- backend and frontend: 
 
 The frontend is done with SDL 2.0.5 library.
 Simple DirectMedia Layer (SDL) is a cross-platform, open-source multimedia library written in C that present an interface to various graphics, sounds and input devices.<br><br>
